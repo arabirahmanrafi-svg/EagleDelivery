@@ -1,0 +1,4 @@
+map,start,goal,seed,episodes,eval_episodes,max_steps,alpha,gamma,epsilon,slip,success_rate,mean_return,mean_steps_success
+/Users/arabirahmanrafi/Downloads/EagleDelivery/maps/emu_campus.txt,L,D,0,2000,100,200,0.3,0.95,0.2,0.0,1,18,22
+/Users/arabirahmanrafi/Downloads/EagleDelivery/maps/emu_campus.txt,L,D,1,2000,100,200,0.3,0.95,0.2,0.0,1,18,22
+/Users/arabirahmanrafi/Downloads/EagleDelivery/maps/emu_campus.txt,L,D,2,2000,100,200,0.3,0.95,0.2,0.0,1,18,22

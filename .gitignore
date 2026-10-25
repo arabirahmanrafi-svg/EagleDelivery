@@ -1,0 +1,8 @@
+# Local Python files; keep project code, maps, tests, CSV results, and report PDFs.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.env
